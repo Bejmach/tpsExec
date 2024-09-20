@@ -1,12 +1,14 @@
 # tpsExec
 
-Windows - Download Win folder and run exe(not tested)
+Windows - Download Win folder and run exe(latest version not tested)
 
 Linux - Download Lin folder and run x86_64 file(./location/to/file in console)
 
 Keys:
 
     wsad - movement
+    shoft/hold - run
+    shift/pressed - dash
     lmb - shoot
     rmb - aim
     r - reload
